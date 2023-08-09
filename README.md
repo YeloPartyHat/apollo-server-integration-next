@@ -4,6 +4,12 @@ An Apollo Server integration for use with Next.js.
 
 ## Getting started
 
+Download and install from npm:
+
+```
+npm i @as-integrations/next
+```
+
 First create a Next.js API route by creating a file at for example `pages/api/graphql.js`.  
 This API route will be accessible at `/api/graphql`.
 
